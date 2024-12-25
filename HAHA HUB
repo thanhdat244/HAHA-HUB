@@ -1,0 +1,6 @@
+Config = (
+        namescript = "HAHA HUB",--Tên script
+        logoscript = "924642026",--Id logo script
+        tacgia = "Thành Đạt",--Tên tác giả
+}
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9cc98e86b5408d7cb93ea17acbe049ef.lua"))()
